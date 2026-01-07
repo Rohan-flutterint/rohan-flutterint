@@ -1,4 +1,4 @@
-Hey There👋 My name is Rohan
+Hey there 👋 My name is Rohan
 =============================
 I am a Software Development Engineer with a strong interest in solving complex challenges associated with integrating large-scale distributed systems, particularly through asynchronous and concurrent programming. My focus areas include designing low-latency architectures and building robust real-time data streaming and processing solutions. I have extensive hands-on experience with Java, Python, Scala, C++, Go, and Rust. Additionally, I am passionate about open-source technologies and actively contribute to the community.
 
