@@ -50,10 +50,17 @@ I am a Software Development Engineer with a strong interest in solving complex c
 </p>
 
 # 📊 GitHub Stats:
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-flutterint&count_private=true&theme=buefy&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage" width="420"/> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-flutterint&layout=compact&theme=buefy&hide_border=true&langs_count=8" width="350"/> 
+<p align="center">
+  <img
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=rohan-flutterint&show_icons=true&theme=buefy&hide_border=true"
+    width="420"
+  />
+  <img
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rohan-flutterint&layout=compact&theme=buefy&hide_border=true&langs_count=8"
+    width="350"
+  />
 </p>
+
 
 ## Current Streak
 <p>
