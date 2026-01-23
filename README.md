@@ -1,73 +1,74 @@
-Hey there 👋 My name is Rohan
-=============================
-I am a Software Development Engineer with a strong interest in solving complex challenges associated with integrating large-scale distributed systems, particularly through asynchronous and concurrent programming. My focus areas include designing low-latency architectures and building robust real-time data streaming and processing solutions. I have extensive hands-on experience with Java, Python, Scala, C++, Go, and Rust. Additionally, I am passionate about open-source technologies and actively contribute to the community.
+# ⚡ Distributed Systems Engineer/Data Engineer
 
-### Here is what I am working on 👋
-- 🌍 I'm based out of India
-- 🔭 I’m currently working on Distributed Batch processing frameworks (Apache Spark), Real-time stream processing framework (Apache Flink), distributed SQL query engines (Presto, Trino, Dremio), ELT integration platform (AirByte), real-time analytics database (Druid), distributed MPP query layer (Drill) & near real-time distributed data store (Apache Pinot).
-- 🌱 I’m currently learning: Scala, Go, Rust.
-- 👯 I’m looking to collaborate on: Java, Scala, Python, Go, Rust, and C++.
-- 📫 How to reach me : rohankumardubey497@gmail.com (or)  rohan.rohankumar.kumar51@gmail.com 
-- 📫 My Portfolio Page: https://rohankumardubey.github.io/
-- 📫 My second Github account: https://github.com/rohankumar997
-- ⚡ Fun fact: I'm Iron Man ⎊.
-
-## Stack and Tools I work with
-<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://img.icons8.com/dusk/344/scala.png"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>	
-<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>	
-<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>	
-<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>		
-<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg"></code>	
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>	
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
-<code><img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"></code>
-<code><img height="50" src="https://img.icons8.com/color/344/pycharm.png"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
-<code><img height="50" src="https://img.icons8.com/color/344/notepad-plus-plus.png"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg"></code>
-
-
-## About me
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohan-flutterint" />
-  <br/>
-</p>
-
-# 📊 GitHub Stats:
-<p>
-  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=rohan-flutterint&show_icons=true&theme=buefy&hide_border=true" width="420"/> 
-  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rohan-flutterint&layout=compact&theme=buefy&hide_border=true&langs_count=8" width="300"/> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Distributed+Systems+Engineer;Data+Engineer;Building+Scalable+%26+Fault-Tolerant+Systems;Real-Time+Streaming+%7C+Concurrency+%7C+Low-Latency+Architecture;Java+%7C+Python+%7C+Rust+%7C+Go+%7C+Scala+%7C+C%2B%2B" />
 </p>
 
 
-## Current Streak
-<p>
-<img align="center" src="https://streak-stats.demolab.com/?user=rohan-flutterint" alt="Rohan Github Stats" /></a>
+---
+
+## 🌐 Building Systems, One Node at a Time — I'm Rohan
+
+**Distributed Systems Engineer/ Data Engineer** focused on designing and building **scalable, fault-tolerant, and high-performance distributed systems.**
+I specialize in **asynchronous and concurrent programming, low-latency architectures, and real-time data streaming and processing**.
+
+I have hands-on experience with **Rust, Java, Python, Go, Scala, and C++**, and I actively explore system design, **performance optimization**, and **distributed data platforms**.
+Passionate about **open-source and contributing to the distributed systems ecosystem**.
+
+💡 Tech stack: **Rust, Go, Java, Python, Scala, C++**  
+🌍 **Open-source enthusiast & system design explorer.**
+
+---
+
+## ⚙️ Distributed Systems & Data Engineering Stack 🚀
+
+- 🧠 **Compute & Processing**: Apache Spark, Apache Flink, Ray, Apache Hadoop  
+- 🌊 **Streaming & Messaging**: Apache Kafka, Pulsar, Kafka Streams, RabbitMQ, NATS  
+- 🧮 **Query & Analytics Engines**: Presto, Trino, Dremio, ClickHouse, DuckDB, Arrow  
+- 🗄️ **Lakehouse & Storage**: Apache Iceberg, Delta Lake, Hudi, MinIO  
+- 🧱 **Databases**: Cassandra, ScyllaDB, CockroachDB, TiDB, MongoDB  
+- 🧬 **Data Platforms**: Airbyte, Druid, Pinot, Drill, Snowflake, BigQuery  
+- ☁️ **Infra & Orchestration**: Kubernetes, Docker, Terraform, Apache Airflow, Argo  
+- ⚡ **High-Performance Systems**: Rust, gRPC, WASM, Vectorized Execution  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=rohan-flutterint&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rohan-flutterint&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 </p>
 
-## Social Media Handles
-[![Github](https://img.shields.io/github/followers/rohan-flutterint?label=Follow&style=social)](https://github.com/rohan-flutterint)
-[![Linkedin](https://img.shields.io/badge/-Rohan%20Kumar%20Dubey-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/rohan-kumar-dubey-3a9a31156/)
-[![Mail](https://img.shields.io/badge/-rohankumardubey497@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:rohankumardubey497@gmail.com)
+---
 
+## 🔥 Contribution Streak
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=rohan-flutterint&theme=tokyonight&hide_border=true" />
+</p>
 
-### Rohan Activity Graph
-[![Rohans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohan-flutterint&theme=github-compact&bg_color=000000&color=00FF00&line=ff0000&point=FFFF00&area=true&hide_border=true)](https://github.com/rohan-flutterint/github-readme-activity-graph)
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/rohan-flutterint">
+    <img src="https://img.shields.io/github/followers/rohan-flutterint?label=Follow&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/rohan-kumar-dubey-3a9a31156/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohan%20Kumar%20Dubey-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:rohankumardubey497@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-flutterint&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
